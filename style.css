@@ -1,0 +1,8 @@
+body{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: blueviolet;
+}
+.contaner {
+    max-width: 800px;
+    margin:auto;
+}
